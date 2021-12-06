@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "Joe",
+      "age": 23,
+      "companyId": "1"
+    },
+    {
+      "id": "42",
+      "firstName": "John",
+      "age": 41,
+      "companyId": "2"
+    },
+    {
+      "id": "25",
+      "firstName": "Steve-O 32",
+      "age": 25,
+      "companyId": "1"
+    },
+    {
+      "firstName": "Stephen",
+      "age": 26,
+      "id": "c3dL5Nn"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Billabong",
+      "description": "only a surfer knows the feeling"
+    },
+    {
+      "id": "2",
+      "name": "Rip Curl",
+      "description": "the search..."
+    },
+    {
+      "id": "3",
+      "name": "Quiksilver",
+      "description": "if you cant rock and roll don't farken come!"
+    }
+  ]
+}
